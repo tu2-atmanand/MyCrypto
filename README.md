@@ -1,2 +1,2 @@
 # MyCrypto
-This repository contains the project for Epsilon 22 Blockchain
+This repository contains the project for EPSILON 2022: DAY 2| BLOCKCHAIN CONFERENCE-SOLIDITY :THE BACKBONE OF BLOCKCHAIN
